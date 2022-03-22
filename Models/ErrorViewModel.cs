@@ -1,6 +1,6 @@
 using System;
 
-namespace MedsShop.Models
+namespace MedsOnline.Models
 {
     public class ErrorViewModel
     {
