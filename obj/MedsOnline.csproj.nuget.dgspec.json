@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\source\\repos\\MedsOnline\\MedsOnline\\MedsOnline.csproj": {}
+    "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\source\\repos\\MedsOnline\\MedsOnline\\MedsOnline.csproj": {
+    "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\MedsOnline\\MedsOnline\\MedsOnline.csproj",
+        "projectUniqueName": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj",
         "projectName": "MedsOnline",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\MedsOnline\\MedsOnline\\MedsOnline.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\MedsOnline\\MedsOnline\\obj\\",
+        "projectPath": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj",
+        "packagesPath": "C:\\Users\\Gopivigneshkumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gopivigneshkumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -71,7 +69,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
         }
       }
     }

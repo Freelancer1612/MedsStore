@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Documents\\Meds\\MedsShop.csproj": {}
+    "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Documents\\Meds\\MedsShop.csproj": {
+    "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Documents\\Meds\\MedsShop.csproj",
+        "projectUniqueName": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsShop.csproj",
         "projectName": "MedsShop",
-        "projectPath": "C:\\Users\\asus\\Documents\\Meds\\MedsShop.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Documents\\Meds\\obj\\",
+        "projectPath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsShop.csproj",
+        "packagesPath": "C:\\Users\\Gopivigneshkumar\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gopivigneshkumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
         }
       }
     }
