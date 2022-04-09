@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "FilePath": "c:\\Users\\ELCOT\\Desktop\\MedsStore\\MedsShop.csproj",
+=======
+  "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsShop.csproj",
+>>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,6 +14406,7 @@
   "RootNamespace": "MedsShop",
   "Documents": [
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\ELCOT\\Desktop\\MedsStore\\Views\\Home\\About.cshtml",
       "TargetPath": "Views\\Home\\About.cshtml",
       "FileKind": "mvc"
@@ -14473,23 +14478,110 @@
     },
     {
       "FilePath": "c:\\Users\\ELCOT\\Desktop\\MedsStore\\Views\\Shared\\_CookieConsentPartial.cshtml",
+=======
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\_CookieConsentPartial.cshtml",
+>>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\ELCOT\\Desktop\\MedsStore\\Views\\Shared\\Partial\\FooterPartial.cshtml",
+=======
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\Partial\\BreadCrumbPartial.cshtml",
+      "TargetPath": "Views\\Shared\\Partial\\BreadCrumbPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\Partial\\FooterPartial.cshtml",
+>>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
       "TargetPath": "Views\\Shared\\Partial\\FooterPartial.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\ELCOT\\Desktop\\MedsStore\\Views\\Home\\Contact.cshtml",
+=======
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Customer\\CustomerView.cshtml",
+      "TargetPath": "Views\\Customer\\CustomerView.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Home\\Contact.cshtml",
+>>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
       "TargetPath": "Views\\Home\\Contact.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\ELCOT\\Desktop\\MedsStore\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
+=======
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\Partial\\PreloaderPartial.cshtml",
+      "TargetPath": "Views\\Shared\\Partial\\PreloaderPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\Partial\\SettingsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\Partial\\SettingsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\Partial\\SideBarPartial.cshtml",
+      "TargetPath": "Views\\Shared\\Partial\\SideBarPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\Partial\\NavBarPartial.cshtml",
+      "TargetPath": "Views\\Shared\\Partial\\NavBarPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gopivigneshkumar\\source\\MedsStore\\Views\\Customer\\CustomerAdd.cshtml",
+      "TargetPath": "Views\\Customer\\CustomerAdd.cshtml",
+      "FileKind": "mvc"
+>>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
     }
   ],
   "SerializationFormat": "0.2"

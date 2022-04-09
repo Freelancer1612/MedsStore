@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\ELCOT\\Desktop\\MedsStore\\MedsOnline.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Users\\ELCOT\\Desktop\\MedsStore\\MedsOnline.csproj",
         "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ELCOT\\Desktop\\MedsStore\\obj\\",
+=======
+    "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj",
+        "projectName": "MedsOnline",
+        "projectPath": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj",
+        "packagesPath": "C:\\Users\\Gopivigneshkumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\obj\\",
+>>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\ELCOT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Gopivigneshkumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
