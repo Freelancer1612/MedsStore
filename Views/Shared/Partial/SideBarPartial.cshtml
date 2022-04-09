@@ -1,6 +1,6 @@
 ﻿<div id="sidebar" class="sidebar                  responsive                    ace-save-state">
     <script type="text/javascript">
-                try { ace.settings.loadState('sidebar') } catch (e) { }
+        try { ace.settings.loadState('sidebar') } catch (e) { }
     </script>
 
     <div class="sidebar-shortcuts" id="sidebar-shortcuts">
@@ -39,12 +39,48 @@
                 <i class="menu-icon fa fa-tachometer"></i>
                 <span class="menu-text"> Dashboard </span>
             </a>
+        </li>
+
+        @*Purchase Sidebar*@
+        <li class="">
+            <a href="#" class="dropdown-toggle">
+                <i class="menu-icon fa fa-shopping-cart"></i>
+                <span class="menu-text">
+                    Purchase
+                </span>
+
+                <b class="arrow fa fa-angle-down"></b>
+            </a>
 
             <b class="arrow"></b>
-        </li>
-    </ul><!-- /.nav-list -->
 
+            <ul class="submenu">
+                <li class="">
+                    <a asp-controller="Purchase" asp-action="PurchaseForm">
+                        <i class="menu-icon fa fa-plus-square"></i>
+                        Add Purchase
+                    </a>
+                    <b class="arrow"></b>
+                </li>
+
+                <li class="">
+                    <a asp-controller="Purchase" asp-action="PurchaseDetails">
+                        <i class="menu-icon fa fa-hospital-o"></i>
+                        Manage Purchase
+                    </a>
+                    <b class="arrow"></b>
+                </li>
+            </ul>
+        </li>
+
+        <b class="arrow"></b>
+        </li>
+    </ul>
+
+    <!-- /.nav-list -->
+    
     <div class="sidebar-toggle sidebar-collapse" id="sidebar-collapse">
-        <i id="sidebar-toggle-icon" class="ace-icon fa fa-angle-double-left ace-save-state" data-icon1="ace-icon fa fa-angle-double-left" data-icon2="ace-icon fa fa-angle-double-right"></i>
+        <i id="sidebar-toggle-icon" class="ace-icon fa fa-angle-double-left ace-save-state"
+            data-icon1="ace-icon fa fa-angle-double-left" data-icon2="ace-icon fa fa-angle-double-right"></i>
     </div>
 </div>
