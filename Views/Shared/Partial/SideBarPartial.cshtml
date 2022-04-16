@@ -53,9 +53,29 @@
             </a>
 
             <b class="arrow"></b>
-<<<<<<< HEAD
-=======
+            <ul class="submenu">
+                <li class="">
+                    <a asp-controller="Purchase" asp-action="PurchaseForm">
+                        <i class="menu-icon fa fa-plus-square"></i>
+                        Add Purchase
+                    </a>
+                    <b class="arrow"></b>
+                </li>
+
+                <li class="">
+                    <a asp-controller="Purchase" asp-action="PurchaseDetails">
+                        <i class="menu-icon fa fa-hospital-o"></i>
+                        Manage Purchase
+                    </a>
+                    <b class="arrow"></b>
+                </li>
+            </ul>
         </li>
+
+
+        @*<<<<<<< HEAD
+            =======
+            </li>*@
         <li class="">
             <a href="#" class="dropdown-toggle">
                 <i class=" menu-icon fa fa-user bigger-110"></i>
@@ -87,34 +107,18 @@
                 </li>
             </ul>
         </li>
-    </ul><!-- /.nav-list -->
->>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
+    </ul>
+    
+    <!-- /.nav-list -->
+    @* >>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e *@
 
-            <ul class="submenu">
-                <li class="">
-                    <a asp-controller="Purchase" asp-action="PurchaseForm">
-                        <i class="menu-icon fa fa-plus-square"></i>
-                        Add Purchase
-                    </a>
-                    <b class="arrow"></b>
-                </li>
 
-                <li class="">
-                    <a asp-controller="Purchase" asp-action="PurchaseDetails">
-                        <i class="menu-icon fa fa-hospital-o"></i>
-                        Manage Purchase
-                    </a>
-                    <b class="arrow"></b>
-                </li>
-            </ul>
-        </li>
-
-        <b class="arrow"></b>
-        </li>
+    <b class="arrow"></b>
+    </li>
     </ul>
 
     <!-- /.nav-list -->
-    
+
     <div class="sidebar-toggle sidebar-collapse" id="sidebar-collapse">
         <i id="sidebar-toggle-icon" class="ace-icon fa fa-angle-double-left ace-save-state"
             data-icon1="ace-icon fa fa-angle-double-left" data-icon2="ace-icon fa fa-angle-double-right"></i>

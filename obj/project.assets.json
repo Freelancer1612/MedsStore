@@ -11802,39 +11802,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\ELCOT\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\Gopivigneshkumar\\.nuget\\packages\\": {},
->>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ELCOT\\Desktop\\MedsStore\\MedsOnline.csproj",
       "projectName": "MedsOnline",
       "projectPath": "C:\\Users\\ELCOT\\Desktop\\MedsStore\\MedsOnline.csproj",
       "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ELCOT\\Desktop\\MedsStore\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj",
-      "projectName": "MedsOnline",
-      "projectPath": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj",
-      "packagesPath": "C:\\Users\\Gopivigneshkumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\obj\\",
->>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\ELCOT\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\Gopivigneshkumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11889,5 +11873,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ELCOT\\Desktop\\MedsStore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

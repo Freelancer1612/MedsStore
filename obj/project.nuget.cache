@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "Ndizypm1FgAHCi0IAsBnXViJXQpu6dTHGRIIJBq5vrJGnjmZ+Uw+7SMxn46hlnzEKb14DhH+erEwwyCBIuSudA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ELCOT\\Desktop\\MedsStore\\MedsOnline.csproj",
-=======
-  "dgSpecHash": "EuBMlZv+rYltLYwVJkXu/UVMLa2N788q9mQ1pApoyvQ89WDSI254Wt5kVNsCMp3wuWtM5Be2v7vWZifr0suXHQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Gopivigneshkumar\\source\\MedsStore\\MedsOnline.csproj",
->>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
@@ -288,5 +282,12 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ELCOT\\Desktop\\MedsStore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

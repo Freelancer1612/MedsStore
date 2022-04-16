@@ -131,3 +131,5 @@ C:\Users\Gopivigneshkumar\source\MedsStore\obj\Debug\netcoreapp2.1\Razor\Views\C
 C:\Users\Gopivigneshkumar\source\MedsStore\obj\Debug\netcoreapp2.1\Razor\Views\Customer\CustomerView.cshtml.g.cs
 C:\Users\Gopivigneshkumar\source\MedsStore\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Test.cshtml.g.cs
 >>>>>>> c52d2bad1fc4ac974eedc37c8155098e3d355c5e
+C:\Users\ELCOT\Desktop\MedsStore\obj\Debug\netcoreapp2.1\Razor\Views\Customer\CustomerAdd.cshtml.g.cs
+C:\Users\ELCOT\Desktop\MedsStore\obj\Debug\netcoreapp2.1\Razor\Views\Customer\CustomerView.cshtml.g.cs
