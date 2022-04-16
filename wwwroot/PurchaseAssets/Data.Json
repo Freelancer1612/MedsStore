@@ -1,0 +1,34 @@
+{
+    "Header": {
+        "GRNO": "1",
+        "GRNDate": "1",
+        "SupplierType": "1",
+        "SupplierId": "",
+        "SupplierName": "",
+        "TotalQty": 3,
+        "TotalAmount": 100
+    },
+    "Details": [
+        {
+            "Code": "I001",
+            "ProductId": 1,
+            "Qty": 5,
+            "Price": 10,
+            "Amount": 30
+        },
+        {
+            "Code": "I001",
+            "ProductId": 1,
+            "Qty": 5,
+            "Price": 10,
+            "Amount": 30
+        },
+        {
+            "Code": "I001",
+            "ProductId": 1,
+            "Qty": 5,
+            "Price": 10,
+            "Amount": 30
+        }
+    ]
+}

@@ -18,7 +18,7 @@
                         <label class="font-weight-bold" for="">Search :&emsp;</label>
 
 
-                        <input type="number" class="form-control" id="txtSupplierID" placeholder="By GRN NO">
+                        <input type="number" class="form-control" id="txtGRNID" placeholder="By GRN NO">
                     </div>
 
                     <div class="col-md-6">
@@ -29,7 +29,7 @@
                     </div>
 
                     <div class="col-md-2">
-                        &emsp;<button class="btn btn-primary font-weight-bold"><i
+                        &emsp;<button class="btn btn-primary font-weight-bold" id="btnSearch"><i
                                 class="glyphicon glyphicon-search"></i>&nbsp;&nbsp;Search</button>
                     </div>
 
@@ -45,14 +45,15 @@
                             <thead>
                                 <tr>
                                     <th style="width: 2%;">S.NO</th>
-                                    <th style="width: 20%;">Medicine Name</th>
+                                    <th style="width: 20%;">Product Code</th>
+                                    <th style="width: 20%;">Product Name</th>
                                     <th style="width: 10%;">Rate</th>
                                     <th style="width: 10%;">Quantity</th>
                                     <th style="width: 10%;">Amount</th>
-                                    <th style="width: 20%;">Remarks</th>
+                                    <th style="width: 20%;">Action</th>
                                 </tr>
                             </thead>
-                            <tbody id="txtpurchases_div">
+                            <tbody id="tbPurchasesDetails">
                             </tbody>
                         </table>
                     </div>
@@ -62,16 +63,34 @@
             <!-- form content end -->
 
             <hr class="col-md-12" style="padding: 0px; border-top: 2px solid  #02b6ff;">
-            <div class="col-md-9"></div>
-            <div class="col-md-3" align="center">
-                &emsp;<button class="btn btn-success font-weight-bold"><i
-                        class="glyphicon glyphicon-pencil"></i></button>
-                &emsp;<button class="btn btn-danger font-weight-bold"><i class="glyphicon glyphicon-trash"></i></button>
+            <div class="row col col-md-12">
 
-            </div>
+					<div class="col col-md-8"></div>
+
+					<div class="col col-md-2 form-group">
+						<button class="btn btn-success form-control menu-icon fa fa-floppy-o"
+							id="txtPurchaseSave">&nbsp;&nbsp;Save</button>
+					</div>
+
+					<div class="col col-md-2 form-group">
+						<button class="btn btn-danger form-control menu-icon fa fa-trash"
+							id="txtPurchaseCancel">&nbsp;&nbsp;Cancel</button>
+					</div>
+
+				</div>
 
         </div>
     </div>
 </body>
 
 </html>
+
+
+	@section scripts
+	{
+	<script src="/PurchaseAssets/PurchaseDetails.js"></script>
+	<script type="text/javascript">
+	//init call
+	Init();
+	</script>
+	}

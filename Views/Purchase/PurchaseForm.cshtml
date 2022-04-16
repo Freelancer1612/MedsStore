@@ -6,6 +6,7 @@
 	<script language="JavaScript" type="text/javascript" src="/PurchaseAssets/PurchaseBind.js"></script>*@
 
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+	
 </head>
 <body>
 	<div class="container-fluid" align="center">
@@ -165,7 +166,9 @@
 									<th style="width: 20%;">Action</th>
 								</tr>
 							</thead>
-							<tbody id="tblPurchasesDetails"></tbody>
+							<tbody id="tblPurchasesDetails"> 
+							@* Dynamically Bind Column Details *@
+							</tbody>
 						</table>
 					</div>
 				</div>
@@ -215,16 +218,16 @@
 </body>
 </html>
 
-@*
+
 	@section scripts
 	{
-	<script src="/Modules/Product/Entry/Product.js"></script>
+	<script src="/PurchaseAssets/PurchaseForm.js"></script>
 	<script type="text/javascript">
 	//init call
 	Init();
 	</script>
 	}
-*@
+
 
 <script>
 var EmptyRow = "<tr><td colspan='12' class='text-center'>No Records Available</td></tr>";
@@ -238,7 +241,7 @@ $("#btnPurchaseRowAdd").click(function()
 	var name = $("#txtProductName").val();
 	var rate = $("#txtProductRate").val();
 	var qty = $("#txtProductQuantity").val();
-	var amount = rate*qty;
+	var amount = rate*qty; 
 //var amount = rate * qty;
 
 // validation
